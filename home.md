@@ -3,3 +3,5 @@
 
 # Welkom
 Tralala info hier
+
+En een bijdrage vanaf github
