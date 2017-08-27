@@ -10,5 +10,5 @@ Je kunt op deze wiki inloggen met Facebook of GitHub. Stuur voor schrijf-toegang
 ## Locaties
 Smartlab Deventer heeft op het moment 2 locaties:
 
-* [Bibiliotheek] - open inloop op zaterdag van 13.30 tot 16.30 uur
-* [Cambio] - open inloop op donderdag en vrijdag van 10.00 tot 16.00
+* [Bibiliotheek](bibliotheek) - open inloop op zaterdag van 13.30 tot 16.30 uur
+* [Cambio](cambio) - open inloop op donderdag en vrijdag van 10.00 tot 16.00
