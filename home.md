@@ -7,3 +7,8 @@ Hier kunnen we informatie delen over het gebruik van onze ruimtes, handige links
 
 ## Gebruik van deze wiki
 Je kunt op deze wiki inloggen met Facebook of GitHub. Stuur voor schrijf-toegang een mailtje met je gebruikersnaam naar [smartlab@bzzt.net](mailto:smartlab@bzzt.net).
+## Locaties
+Smartlab Deventer heeft op het moment 2 locaties:
+
+* [Bibiliotheek] - open inloop op zaterdag van 13.30 tot 16.30 uur
+* [Cambio] - open inloop op donderdag en vrijdag van 10.00 tot 16.00
