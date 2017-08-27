@@ -20,7 +20,7 @@ Bij het Smartlab maak je alles wat je wilt. Van gebruiksvoorwerpen, sieraden, ku
 Je kunt terecht voor onder andere:
 
 * [3D-printen](3d-printen)
-* [Vinyl snijlen](vinyl-snijden)
+* [Vinyl snijden](vinyl-snijden)
 * [Programmeren](programmeren)
 * [Lasersnijden](lasersnijden)
 
